@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+input{
+    width: 97%;
+    border-radius: 5%;
+}
+
+label{
+    color: #fff;
+    width: 100%;
+    font-size: 20px;
+}
+
+.divtotal{
+    background-color: rgb(78, 78, 78);
+    margin: 25vh auto;
+    width: 50vh;
+    border-radius: 2vw;
+}
+
+.divgeral{
+    padding: 10%;
+    width: 80%;
+}
+
+.divil{
+    width: 86%;
+    margin: 7%;
+}
+
+.divla{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 5%;
+}
